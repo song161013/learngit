@@ -6,3 +6,6 @@ push file to remote origin
 test push
 
 I have two repository,Great!
+
+Creating a new branch is quick.
+
