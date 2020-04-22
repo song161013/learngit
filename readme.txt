@@ -7,5 +7,5 @@ test push
 
 I have two repository,Great!
 
-Creating a new branch is quick.
+Creating a new branch is quick And simple.
 
